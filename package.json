@@ -5,5 +5,12 @@
   "main": "index.js",
   "author": "Giga",
   "license": "MIT",
-  "repository": "https://github.com/gigaaurelia/js-boiler-plate.git"
+  "repository": "https://github.com/gigaaurelia/js-boiler-plate.git",
+  "scripts": {
+    "build": "webpack"
+  },
+  "devDependencies": {
+    "webpack": "^5.39.1",
+    "webpack-cli": "^4.7.2"
+  }
 }
