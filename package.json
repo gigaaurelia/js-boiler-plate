@@ -1,0 +1,8 @@
+{
+  "name": "js-boiler-plate",
+  "version": "0.1.0",
+  "description": "Javascript boiler plate",
+  "main": "index.js",
+  "author": "Giga",
+  "license": "MIT"
+}
